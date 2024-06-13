@@ -8,7 +8,7 @@ from selenium.webdriver.common.by import By
 
 def test_negative_login():
     o = Options()
-    # o.add_argument("--headless")
+    o.add_argument("--headless")
     o.add_argument("--start-maximized")
     o.add_argument("--no-sandbox")
     driver = webdriver.Chrome(options=o)
