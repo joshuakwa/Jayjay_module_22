@@ -1,0 +1,8 @@
+"Status","Start Time","Stop Time","Duration in ms","Parent Suite","Suite","Sub Suite","Test Class","Test Method","Name","Description"
+"passed","Tue Jun 18 23:05:28 WIB 2024","Tue Jun 18 23:05:29 WIB 2024","798","API Automation","test_update_user","","","","test_update_user",""
+"passed","Tue Jun 18 23:05:27 WIB 2024","Tue Jun 18 23:05:27 WIB 2024","122","API Automation","test_get_single_user","","","","test_get_single_user",""
+"passed","Tue Jun 18 23:05:41 WIB 2024","Tue Jun 18 23:05:54 WIB 2024","13198","UI Automation","test_login","","","","test_login",""
+"passed","Tue Jun 18 23:05:27 WIB 2024","Tue Jun 18 23:05:28 WIB 2024","826","API Automation","test_get_users","","","","test_get_list_users",""
+"passed","Tue Jun 18 23:05:26 WIB 2024","Tue Jun 18 23:05:27 WIB 2024","1111","API Automation","test_create_user","","","","test_create_user",""
+"passed","Tue Jun 18 23:05:29 WIB 2024","Tue Jun 18 23:05:41 WIB 2024","11944","UI Automation","test_homepage","","","","test_homepage",""
+"passed","Tue Jun 18 23:05:54 WIB 2024","Tue Jun 18 23:06:05 WIB 2024","10708","UI Automation","test_negative_login","","","","test_negative_login",""
