@@ -4,7 +4,7 @@ from selenium.webdriver.chrome.options import Options
 from selenium.webdriver.common.by import By
 
 
-def test_homepage():
+def test_user_is_on_homepage():
     o = Options()
     o.add_argument("--headless")
     o.add_argument("--start-maximized")
